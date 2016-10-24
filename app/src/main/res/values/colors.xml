@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="statusBar">#C2185B</color>
+    <color name="colorPrimayDark">#C2185B</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="appBarBackgroundColor">#E91E63</color>
+    <color name="detailTitleColor">#000000</color>
+    <color name="background">#B2EBF2</color>
+    <color name="darkBlue">#3F51B5</color>
+
+</resources>

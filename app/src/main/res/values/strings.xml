@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie Stage</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_choice_list_key" translatable="false">choice</string>
+    <string name="pref_choice_default" translatable="false">popularity</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">45241</string>
+    <string name="pref_location_label">Movies Near Me</string>
+    <string name="pref_choice_label">Sort Movies By</string>
+    <string name="hello_world">Hello World</string>
+    <string name="rating_title">Ratings:</string>
+    <string name="release_date_title">Release Date:</string>
+    <string name="plot_title">Summary</string>
+
+    <string-array name="pref_choice_list_titles">
+        <item>Popular</item>
+        <item>Rating</item>
+    </string-array>
+    <string-array name="pref_choice_list_values">
+        <item>popular</item>
+        <item>top_rated</item>
+    </string-array>
+
+
+
+</resources>
