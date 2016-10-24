@@ -171,7 +171,7 @@ public class MovieFragment extends Fragment {
 
 
                 final String FORECAST_BASE_URL ="https://api.themoviedb.org/3/movie/";
-                final String APP_KEY = "1d3e96ec7ab6d51a2a36155d93171ed3";
+                final String APP_KEY = "123";
 
 
                 final String APPID_PARAM = "api_key";
